@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/YourExecutable.dir/src/receive_humidity_on_sensor.c.o CMakeFiles/YourExecutable.dir/tests/your_test_files.cpp.o -o YourExecutable  /usr/local/lib/libgtest.a /usr/local/lib/libgtest_main.a -lpthread /usr/local/lib/libgtest.a 
